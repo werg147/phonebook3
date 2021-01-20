@@ -25,7 +25,7 @@
 	</form>
 
 	<br>
-	<a href="/phonebook2/phone/list">리스트 바로가기</a>
+	<a href="/phonebook3/phone/list">리스트 바로가기</a>
 
 </body>
 </html>
